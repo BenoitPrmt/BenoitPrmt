@@ -5,3 +5,4 @@
 
 📍 Je suis aussi le Créateur et Gérant du Discord Obelia
 
+<a href="https://discord.gg/qEV4YZj" rel="nofollow">🔗 Pour rejoindre mon serveur !</a>
