@@ -11,8 +11,8 @@
 
 <h3 align="left">Join me :</h3>
 <p align="left">
-<a href="https://twitter.com/benoitobelia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benoitobelia" height="30" width="40" /></a>
 <a href="https://discord.gg/RvEc7XjTPP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RvEc7XjTPP" height="30" width="40" /></a>
+<a href="https://twitter.com/benoitobelia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benoitobelia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools :</h3>
