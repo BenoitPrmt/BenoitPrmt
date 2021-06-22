@@ -1,4 +1,4 @@
-<h3 align="center">Bienvenue sur mon GitHub !</h3>
+<h3 align="center">Bienvenue sur mon GitHub ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h3>
 
 - 🔭 I’m currently working on **Winecas**
 
