@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Winecas** and on **my projects** !
 
-- **Founder** of https://github.com/Studio-Shadow
+- **Founder** of **Obelia** & **Studio Shadow** !
 
 - 🌱 I’m currently learning **Java**
 
