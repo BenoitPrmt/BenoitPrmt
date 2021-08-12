@@ -1,7 +1,7 @@
 <h1 align="center">Welcome on my GitHub ! <img src="https://raw.githubusercontent.com/BenoitObelia/BenoitObelia/main/wave.gif" width="30px"></h1>
 <h3 align="center">I'm Benoît and I am a french developer in search of knowledge!</h3>
 
-- 🔭 I’m currently working on **my projects** !
+- 🔭 I’m currently working on **Winecas** and on **my projects** !
 
 - 🌱 I’m currently learning **Java**
 
