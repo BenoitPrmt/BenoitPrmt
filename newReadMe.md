@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=benoitobelia&label=Profile%20views&color=0e75b6&style=flat" alt="benoitobelia" /> </p>
 
-</br>
-
 ## 🔥 About me
 
 I’m currently working on **Winecas** and other projects !
