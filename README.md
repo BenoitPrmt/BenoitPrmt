@@ -3,7 +3,9 @@
 
 I’m currently working on **Winecas** and on **my projects** !
 
-**Founder** of [**Obelia**](https://discord.gg/RvEc7XjTPP), [**Mirsolis Production**](https://twitter.com/mirsolisprod) & [**Studio Shadow**](https://github.com/Studio-Shadow)
+**Founder** of [**Obelia**](https://discord.gg/RvEc7XjTPP), [**Mirsolis Production**](https://twitter.com/mirsolisprod)
+
+[**Studio Shadow**](https://github.com/Studio-Shadow) founder in associate with [**jg45**](https://github.com/jg45)
 
 I’m currently learning **Java**
 
