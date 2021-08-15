@@ -21,9 +21,8 @@ My projects are mostly private but in the future I aim to make projects open sou
 
 - [**Winecas**](https://discord.gg/RvEc7XjTPP) : a private bot for my Discord server. He manage moderation, economy, leveling, events, ...
 - [**InstaBot**](https://github.com/Studio-Shadow) : a private project of a Instagram Bot for automate Instagram account.
-- [**Text Encryptor**](https://github.com/BenoitObelia/Text-Encryptor) : a little Python project for encrypt text for secret messages !
-- []()
-- []()
+- [**Text Encryptor**](https://github.com/BenoitObelia/Text-Encryptor) : a little public Python project for encrypt text for secret messages !
+- [**Shopping List**](https://github.com/BenoitObelia/) : a private project of an Android app for a online shopping list (not finish)
 
 </br>
 
