@@ -5,6 +5,8 @@
 
 </br>
 
+## 🔥 About me
+
 I’m currently working on **Winecas** and other projects !
 
 **Founder** of [**Obelia**](https://discord.gg/RvEc7XjTPP), [**Mirsolis Production**](https://twitter.com/mirsolisprod) & [**Studio Shadow**](https://github.com/Studio-Shadow)
