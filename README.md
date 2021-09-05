@@ -7,7 +7,7 @@
 
 I’m currently working on **Winecas** and other projects !
 
-**Founder** of [**Obelia**](https://discord.gg/RvEc7XjTPP) & [**Mirsolis Production**](https://twitter.com/mirsolisprod) !
+**Founder** of [**Obelia**](https://discord.gg/RvEc7XjTPP) !
 
 **Founder** in **associate** of [**Studio Shadow**](https://github.com/Studio-Shadow) with [**JulesGrd**](https://github.com/JulesGrd) !
 
