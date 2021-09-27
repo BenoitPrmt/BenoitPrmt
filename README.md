@@ -1,8 +1,6 @@
 <h1 align="center">Welcome on my GitHub ! <img src="https://raw.githubusercontent.com/BenoitObelia/BenoitObelia/main/wave.gif" width="30px"></h1>
 <h3 align="center">I'm Benoît and I am a french developer in search of knowledge!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=benoitobelia&label=Profile%20views&color=0e75b6&style=flat" alt="benoitobelia" /> </p>
-
 ## 🔥 About me
 
 I’m currently working on **Winecas** and other projects !
@@ -21,6 +19,7 @@ My projects are mostly private but in the future I aim to make projects open sou
 - [**InstaBot**](https://github.com/Studio-Shadow) : a private project of a Instagram Bot for automate Instagram account.
 - [**Text Encryptor**](https://github.com/BenoitObelia/Text-Encryptor) : a little public Python project for encrypt text for secret messages !
 - [**Shopping List**](https://github.com/BenoitObelia/) : a private project of an Android app for a online shopping list (not finish)
+- Other...
 
 </br>
 
