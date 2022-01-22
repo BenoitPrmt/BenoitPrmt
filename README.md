@@ -3,7 +3,7 @@
 
 ## 🔥 About me
 
-I’m currently working on **Winecas** and other projects !
+I’m currently working on **Winecas**, [**Cloudy**](https://github.com/CloudyTheBot), and other projects !
 
 **Founder** of [**Obelia**](https://discord.gg/RvEc7XjTPP) !
 
@@ -37,7 +37,7 @@ My projects are mostly private but in the future I aim to make projects open sou
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> <a/>
 
 </p>
   
@@ -45,14 +45,8 @@ My projects are mostly private but in the future I aim to make projects open sou
 
 ## 📫 Contact me :
 
-Add me on Discord : `Benoît#9451`
-
-You can also contact me on [**Twitter**](https://twitter.com/BenoitObelia) and at **benoitobelia@gmail.com**
-
-
-</br>
-
-## 🎀 Join me on :
+- Add me on Discord : `Benoît#9451`
+- You can also contact me on [**Twitter**](https://twitter.com/BenoitObelia) and at **benoitobelia@gmail.com**
   
 </br>
 
