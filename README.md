@@ -11,6 +11,8 @@ I’m currently working on **Winecas**, [**Cloudy**](https://github.com/CloudyTh
 
 </br>
 
+<p align="center">&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=BenoitObelia&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="benoitobelia" /></p> 
+
 ## ✨ My projects :
 
 My projects are mostly private but in the future I aim to make projects open source!
@@ -61,8 +63,3 @@ My projects are mostly private but in the future I aim to make projects open sou
 </br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benoitobelia&show_icons=true&locale=en" alt="benoitobelia" /></p>
-
-<p align="center">&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=BenoitObelia&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="benoitobelia" /></p>  
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BenoitObelia&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
