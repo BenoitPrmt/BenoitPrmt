@@ -1,4 +1,4 @@
-<h1 align="center">Welcome on my GitHub ! <img src="https://raw.githubusercontent.com/BenoitObelia/BenoitObelia/main/wave.gif" width="30px"></h1>
+<h1 align="center">&nbsp;<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23F7B700&center=true&lines=Welcome+on+my+GitHub+!" alt="benoitobelia" /></h1> 
 <h3 align="center">I'm Benoît and I am a french developer in search of knowledge!</h3>
 
 ## 🔥 About me
@@ -11,7 +11,7 @@ I’m currently working on **Winecas**, [**Cloudy**](https://github.com/CloudyTh
 
 </br>
 
-<p align="center">&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=BenoitObelia&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="benoitobelia" /></p> 
+<p align="center">&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=BenoitObelia&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="benoitobelia" /></p>
 
 ## ✨ My projects :
 
