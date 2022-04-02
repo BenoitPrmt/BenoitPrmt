@@ -3,7 +3,7 @@
 
 ## 🔥 About me
 
-I’m currently working on **Winecas**, [**Cloudy**](https://github.com/CloudyTheBot), and other projects !
+I’m currently working on **Winecas**, [**Cloudy**](https://github.com/CloudyTheBot), [**Monod Crush**](https://github.com/BenoitObelia/Monod-Crush) and other projects !
 
 **Founder** of [**Obelia**](https://discord.gg/RvEc7XjTPP) !
 
