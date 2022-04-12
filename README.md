@@ -11,13 +11,13 @@ I’m currently working on **Winecas**, [**Cloudy**](https://github.com/CloudyTh
 
 </br>
 
-<p align="center">&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=BenoitObelia&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="benoitobelia" /></p>
-
 ## ✨ My projects :
 
 My projects are mostly private but in the future I aim to make projects open source!
 
 - [**Winecas**](https://discord.gg/RvEc7XjTPP) : a private bot for my Discord server. He manage moderation, economy, leveling, events, ...
+- [**Monod-Crush**](https://github.com/BenoitObelia/Monod-Crush) : a social network created with my friends for our school !
+- [**Insta Account Scrap**](https://github.com/BenoitObelia/Insta-Account-Scrapping) : a public project to see the distribution of men and women in a person's subscriptions
 - [**InstaBot**](https://github.com/Studio-Shadow) : a private project of a Instagram Bot for automate Instagram account.
 - [**Your Daily Dog**](https://github.com/BenoitObelia/Twitter-Dog-Bot) : a public Twitter bot who post picture dog on Twitter
 - [**Text Encryptor**](https://github.com/BenoitObelia/Text-Encryptor) : a little public Python project for encrypt text for secret messages !
@@ -62,4 +62,5 @@ My projects are mostly private but in the future I aim to make projects open sou
 
 </br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benoitobelia&show_icons=true&locale=en" alt="benoitobelia" /></p>
+
+<p align="center">&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=BenoitObelia&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="benoitobelia" /></p>
