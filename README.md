@@ -3,11 +3,18 @@
 
 ## 🔥 About me
 
-I’m currently working on **Winecas**, [**Cloudy**](https://github.com/CloudyTheBot), [**Monod Crush**](https://github.com/BenoitObelia/Monod-Crush) and other projects !
+Currently I mainly work on :
+- [**Cloudy**](https://github.com/CloudyTheBot),
+- [**Monod Crush**](https://github.com/BenoitObelia/Monod-Crush) *([monodcrush.fr](https://monodcrush.fr))*
+- **Winecas**,
+- And other miscellaneous projects ! 
 
-**Founder** of [**Obelia**](https://discord.gg/RvEc7XjTPP) !
+</br>
 
-**Founder** in **associate** of [**Studio Shadow**](https://github.com/Studio-Shadow) with [**JulesGrd**](https://github.com/JulesGrd) !
+Activities :
+- **Creator** of [**Obelia**](https://discord.gg/RvEc7XjTPP) !
+- Associate **Founder** and **developer** of [monodcrush.fr](https://monodcrush.fr)
+- **Founder** in **associate** of [**Studio Shadow**](https://github.com/Studio-Shadow) with [**JulesGrd**](https://github.com/JulesGrd) !
 
 </br>
 
@@ -29,26 +36,37 @@ My projects are mostly private but in the future I aim to make projects open sou
 
 </br>
 
-- To **organize** my **different projects** I use [**Notion**](https://notion.so), I **recommend** !
-
+<p align="center">
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <a/>
+<a href="https://discord.js.org/#/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/discordjs/discordjs-original.svg" alt="discordjs" width="40" height="40"/> <a/>
+<a href="https://bulma.io/#/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bulma/bulma-plain.svg" alt="bulma" width="40" height="40"/> <a/>
+<a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> <a/>
+<a href="https://notion.son" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" alt="notion" width="40" height="40"/> <a/>
+</p>
+  
 </br>
 
 <p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> <a/>
-
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> <a/>
+<a href="https://developer.android.com/?hl=fr" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" alt="astudio" width="40" height="40"/> <a/>
+<a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> <a/>
+<a href="https://www.microsoft.com/fr-fr/" target="_blank"> <img src="https://preview.redd.it/ne6ukkej06t71.png?width=640&crop=smart&auto=webp&s=47bfffc51d6b6445538bc4c44410c816c6287091" alt="windows11" width="40" height="40"/> <a/>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <a/>
 </p>
   
 </br>
 
 ## 📫 Contact me :
 
-- Add me on Discord : `Benoît#9451`
-- You can also contact me on [**Twitter**](https://twitter.com/BenoitObelia) and at **benoitobelia@gmail.com**
+You can contact me at :
+- Discord : `Benoît#9451`
+- Twitter : [`@BenoitObelia`](https://twitter.com/BenoitObelia)
+- Mail : `benoitobelia@gmail.com`
   
 </br>
 
