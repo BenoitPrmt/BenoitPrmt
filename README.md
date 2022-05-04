@@ -1,6 +1,8 @@
 <h1 align="center">&nbsp;<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23F7B700&center=true&lines=Welcome+on+my+GitHub+!" alt="benoitobelia" /></h1> 
 <h3 align="center">I'm Benoît and I am a french developer in search of knowledge!</h3>
 
+<p align="center">&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=BenoitObelia&color=blueviolet&label=VISITES+DE+PROFIL"/></p>
+
 ## 🔥 About me
 
 Currently I mainly work on :
