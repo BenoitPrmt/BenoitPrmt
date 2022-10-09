@@ -67,8 +67,8 @@ My projects are mostly private but in the future I aim to make projects open sou
 
 You can contact me at :
 - Discord : `Benoît#9451`
-- Twitter : [`@BenoitObelia`](https://twitter.com/BenoitObelia)
-- Mail : `benoitobelia@gmail.com`
+- Twitter : [`@Benoit404(https://twitter.com/Benoit404
+- Mail : `benoit@cloudybot.fr`
   
 </br>
 
