@@ -1,7 +1,7 @@
 <h1 align="center">&nbsp;<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23F7B700&center=true&lines=Welcome+on+my+GitHub+!" alt="benoitobelia" /></h1> 
 <h3 align="center">I'm Benoît and I am a french developer in search of knowledge!</h3>
 
-<p align="center">&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=BenoitObelia&color=blueviolet&label=VISITES+DE+PROFIL"/></p>
+<p align="center">&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=BenoitPrmt&color=blueviolet&label=VISITES+DE+PROFIL"/></p>
 
 ## 🔥 About me
 
@@ -16,7 +16,7 @@ Currently I mainly work on :
 Activities :
 - **Creator** of [**Obelia**](https://discord.gg/RvEc7XjTPP) !
 - Associate **Founder** and **developer** of [monodcrush.fr](https://monodcrush.fr)
-- **Founder** in **associate** of [**Studio Shadow**](https://github.com/Studio-Shadow) with [**JulesGrd**](https://github.com/JulesGrd) !
+- **Founder** in **associate** of [**Studio Shadow**](https://github.com/Studio-Shadow) with [**@JulesGrd**](https://github.com/JulesGrd) !
 
 </br>
 
@@ -83,4 +83,4 @@ You can contact me at :
 </br>
 
 
-<p align="center">&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=BenoitObelia&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="benoitobelia" /></p>
+<p align="center">&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=BenoitPrmt&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="benoitobelia" /></p>
