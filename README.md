@@ -6,9 +6,9 @@
 ## 🔥 About me
 
 Currently I mainly work on :
-- [**Cloudy**](https://github.com/CloudyTheBot),
-- [**Monod Crush**](https://github.com/BenoitObelia/Monod-Crush) *([monodcrush.fr](https://monodcrush.fr))*
-- **Winecas**,
+- [**Cloudy**](https://github.com/CloudyTheBot) : a fully playable RPG game on Discord,
+- [**Monod Crush**](https://github.com/BenoitObelia/Monod-Crush) : a website for the students of my old high school
+- **Winecas** : a multi-features Discord Bot,
 - And other miscellaneous projects ! 
 
 </br>
@@ -73,8 +73,7 @@ You can contact me at :
 </br>
 
 <p align="center">
-<a href="https://twitter.com/benoitobelia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benoitobelia" height="30" width="40" /></a>
-<a href="https://instagram.com/benoitobelia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benoitobelia" height="30" width="40" /></a>
+<a href="https://twitter.com/benoit404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benoitobelia" height="30" width="40" /></a>
 <a href="https://discord.gg/RvEc7XjTPP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RvEc7XjTPP" height="30" width="40" /></a>
 </p>
 
