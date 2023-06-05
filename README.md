@@ -13,13 +13,6 @@ Currently I mainly work on :
 
 </br>
 
-Activities :
-- **Creator** of [**Obelia**](https://discord.gg/RvEc7XjTPP) !
-- Associate **Founder** and **developer** of [monodcrush.fr](https://monodcrush.fr)
-- **Founder** in **associate** of [**Studio Shadow**](https://github.com/Studio-Shadow) with [**@JulesGrd**](https://github.com/JulesGrd) !
-
-</br>
-
 ## ✨ My projects :
 
 My projects are mostly private but in the future I aim to make projects open source!
