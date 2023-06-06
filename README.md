@@ -54,7 +54,7 @@
 </div>
 
 ### ❤️ Visitors count
-*counter from June 6, 2023
+*counter from June 6, 2023*
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/BenoitPrmt/count.svg?"  />
