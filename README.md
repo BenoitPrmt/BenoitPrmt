@@ -1,78 +1,63 @@
-<h1 align="center">&nbsp;<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%23F7B700&center=true&lines=Welcome+on+my+GitHub+!" alt="benoitobelia" /></h1> 
-<h3 align="center">I'm Benoît and I am a french developer in search of knowledge!</h3>
+<h2 align="left">Hi 👋! My name is Benoît and I'm a developper from France !</h2>
 
-<p align="center">&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=BenoitPrmt&color=blueviolet&label=VISITES+DE+PROFIL"/></p>
+### ✨ About me
 
-## 🔥 About me
+🐛 Creating bugs since 2019 <br>
+📍 I'm currently working on personnal projects <br>
+🎓 I am currently studying computer science in France <br>
+💡 I am open to all your feedback about my public projects! <br>
 
-Currently I mainly work on :
-- [**Cloudy**](https://github.com/CloudyTheBot) : a fully playable RPG game on Discord,
-- [**Monod Crush**](https://github.com/BenoitObelia/Monod-Crush) : a website for the students of my old high school
-- **Winecas** : a multi-features Discord Bot,
-- And other miscellaneous projects ! 
+### 📁 My stats
 
-</br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BenoitPrmt&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=BenoitPrmt&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&date_format=j M[ Y]" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BenoitPrmt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-## ✨ My projects :
+### 💻 I mainly use...
 
-My projects are mostly private but in the future I aim to make projects open source!
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
-- [**Winecas**](https://discord.gg/RvEc7XjTPP) : a private bot for my Discord server. He manage moderation, economy, leveling, events, ...
-- [**Monod-Crush**](https://github.com/BenoitObelia/Monod-Crush) : a social network created with my friends for our school !
-- [**Insta Account Scrap**](https://github.com/BenoitObelia/Insta-Account-Scrapping) : a public project to see the distribution of men and women in a person's subscriptions
-- **InstaBot** : a private project of a Instagram Bot for automate Instagram account.
-- [**Your Daily Dog**](https://github.com/BenoitObelia/Twitter-Dog-Bot) : a public Twitter bot who post picture dog on Twitter
-- [**Text Encryptor**](https://github.com/BenoitObelia/Text-Encryptor) : a little public Python project for encrypt text for secret messages !
-- Other...
+### 💠 Join me
 
-</br>
+<div align="center">
+  <a href="https://discord.gg/obelia-373085691443281921" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
+  </a>
+</div>
 
-## 🔧 Languages and Tools :
+### ❤️ Visitors count
+*counter from June 6, 2023
 
-</br>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/BenoitPrmt/count.svg?"  />
+</div>
 
-<p align="center">
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <a/>
-<a href="https://discord.js.org/#/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/discordjs/discordjs-original.svg" alt="discordjs" width="40" height="40"/> <a/>
-<a href="https://bulma.io/#/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bulma/bulma-plain.svg" alt="bulma" width="40" height="40"/> <a/>
-<a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> <a/>
-<a href="https://notion.son" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" alt="notion" width="40" height="40"/> <a/>
-</p>
-  
-</br>
-
-<p align="center">
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> <a/>
-<a href="https://developer.android.com/?hl=fr" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" alt="astudio" width="40" height="40"/> <a/>
-<a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> <a/>
-<a href="https://www.microsoft.com/fr-fr/" target="_blank"> <img src="https://preview.redd.it/ne6ukkej06t71.png?width=640&crop=smart&auto=webp&s=47bfffc51d6b6445538bc4c44410c816c6287091" alt="windows11" width="40" height="40"/> <a/>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <a/>
-</p>
-  
-</br>
-
-## 📫 Contact me :
-
-You can contact me at :
-- Discord : `Benoît#9451`
-- Twitter : [`@Benoit404`](https://twitter.com/Benoit404)
-- Mail : `benoit@cloudybot.fr`
-  
-</br>
-
-<p align="center">
-<a href="https://twitter.com/benoit404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benoitobelia" height="30" width="40" /></a>
-<a href="https://discord.gg/RvEc7XjTPP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RvEc7XjTPP" height="30" width="40" /></a>
-</p>
-
-## ⭐ My GitHub stats :
-
-</br>
-
-
-<p align="center">&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=BenoitPrmt&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="benoitobelia" /></p>
+###
