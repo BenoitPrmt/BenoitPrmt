@@ -3,7 +3,7 @@
 ### ✨ About me
 
 🐛 Creating bugs since 2019 <br>
-📍 I'm currently working on personnal projects <br>
+📍 I'm currently working on personnal projects (the majority are private) <br>
 🎓 I am currently studying computer science in France <br>
 💡 I am open to all your feedback about my public projects! <br>
 
