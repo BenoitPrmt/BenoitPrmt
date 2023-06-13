@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Benoît and I'm a developper from France !</h2>
+<h2 align="left">Hi 👋! My name is Benoît and I'm a computer science student from France !</h2>
 
 ### ✨ About me
 
