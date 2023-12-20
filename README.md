@@ -64,9 +64,11 @@ I'm a computer science student from France. I'm interested in programming, cyber
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenoitPrmt&theme=dark&hide_border=true" alt="streak graph"  /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenoitPrmt&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="streak graph"  />
-</div>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BenoitPrmt&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ### ❤️ Visitors count
 *counter from June 6, 2023*
