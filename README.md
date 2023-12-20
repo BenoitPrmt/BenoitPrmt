@@ -35,6 +35,11 @@ I'm a computer science student from France. I'm interested in programming, cyber
 <td style="height: 23px;">&nbsp;Little social network created for&nbsp;my school !</td>
 <td style="height: 23px;">&nbsp;https://monodcrush.fr</td>
 </tr>
+<tr style="height: 23px;">
+<td style="height: 23px;">&nbsp;Casse-briques 🧱</td>
+<td style="height: 23px;">&nbsp;Destroy all bricks 🧱 and don't fall into the void ✨</td>
+<td style="height: 23px;">&nbsp;https://bricks.benoit.fun</td>
+</tr>
 </tbody>
 </table>
 <!-- DivTable.com -->
