@@ -7,7 +7,7 @@ I'm a computer science student from France. I'm interested in programming, cyber
 🎓 I am currently studying computer science in France <br>
 💡 I am open to all your feedback about my public projects! <br>
 
-## 👇 Projects
+## 👇 Web Projects
 <table>
 <tbody>
 <tr style="height: 23px;">
