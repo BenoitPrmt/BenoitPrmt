@@ -2,49 +2,49 @@
 
 I'm a computer science student from France. I'm interested in programming, cybersecurity, and much more...
 
-🐛 Creating bugs since 2019 <br>
-📍 I'm currently working on personnal projects (the majority are private) <br>
-🎓 I am currently studying computer science in France <br>
-💡 I am open to all your feedback about my public projects! <br>
+- Creating bugs since 2019 <br>
+- I'm currently working on personnal projects (the majority are private) <br>
+- I am currently studying computer science in France <br>
+- I am open to all your feedback about my public projects! <br>
 
 ## 👇 Web Projects
 <table>
 <tbody>
-<tr style="height: 23px;">
-<td style="height: 23px;">Vite une place 🚗</td>
-<td style="height: 23px;">&nbsp;Find an available parking space near you!</td>
-<td style="height: 23px;">&nbsp;https://viteuneplace.fr</td>
-</tr>
-<tr style="height: 23px;">
-<td style="height: 23px;">Advent of Fitness 💪</td>
-<td style="height: 23px;">&nbsp;One sporting exercise per day from December 1st to 24th.</td>
-<td style="height: 23px;">&nbsp;https://fitness.benoit.fun</td>
-</tr>
-<tr style="height: 23.5px;">
-<td style="height: 23.5px;">&nbsp;GravityGarden 🥕</td>
-<td style="height: 23.5px;">&nbsp;Your are a rabbit 🐰 and you have to catch carrots 🥕</td>
-<td style="height: 23.5px;">https://gravitygarden.benoit.fun</td>
-</tr>
-<tr style="height: 23px;">
-<td style="height: 23px;">&nbsp;MonodCrush 💗</td>
-<td style="height: 23px;">&nbsp;Little social network created for&nbsp;my school !</td>
-<td style="height: 23px;">&nbsp;<i>Unhosted project</i></td>
-</tr>
-<tr style="height: 23px;">
-<td style="height: 23px;">&nbsp;PokeStats ✨</td>
-<td style="height: 23px;">&nbsp;Stats of Pokemons ⚡️🔥💧🍃 View them by generation, evolution !</td>
-<td style="height: 23px;">&nbsp;https://pokestats.benoit.fun</td>
-</tr>
-<tr style="height: 23px;">
-<td style="height: 23px;">&nbsp;Find the clover 🍀</td>
-<td style="height: 23px;">&nbsp;Find the 🍀 among the ☘️</td>
-<td style="height: 23px;">&nbsp;https://findtheclover.benoit.fun</td>
-</tr>
-<tr style="height: 23px;">
-<td style="height: 23px;">&nbsp;Memento 🧠</td>
-<td style="height: 23px;">&nbsp;Add post-it to your wall and remember your tasks</td>
-<td style="height: 23px;">&nbsp;https://memento.benoitparmentier.fr</td>
-</tr>
+  <tr style="height: 23px;">
+    <td style="height: 23px;">Vite une place 🚗</td>
+    <td style="height: 23px;">&nbsp;Find an available parking space near you!</td>
+    <td style="height: 23px;">&nbsp;https://viteuneplace.fr</td>
+  </tr>
+  <tr style="height: 23px;">
+    <td style="height: 23px;">Coloc+ 🏡</td>
+    <td style="height: 23px;">&nbsp;Manage your flatshare easly!</td>
+    <td style="height: 23px;">&nbsp;https://colocplus.com</td>
+  </tr>
+  <tr style="height: 23.5px;">
+    <td style="height: 23.5px;">&nbsp;GravityGarden 🥕</td>
+    <td style="height: 23.5px;">&nbsp;Your are a rabbit 🐰 and you have to catch carrots 🥕</td>
+    <td style="height: 23.5px;">https://gravitygarden.benoit.fun</td>
+  </tr>
+  <tr style="height: 23px;">
+    <td style="height: 23px;">&nbsp;MonodCrush 💗</td>
+    <td style="height: 23px;">&nbsp;Little social network created for&nbsp;my school !</td>
+    <td style="height: 23px;">&nbsp;<i>Unhosted project</i></td>
+  </tr>
+  <tr style="height: 23px;">
+    <td style="height: 23px;">&nbsp;PokeStats ✨</td>
+    <td style="height: 23px;">&nbsp;Stats of Pokemons ⚡️🔥💧🍃 View them by generation, evolution !</td>
+    <td style="height: 23px;">&nbsp;https://pokestats.benoit.fun</td>
+  </tr>
+  <tr style="height: 23px;">
+    <td style="height: 23px;">&nbsp;Find the clover 🍀</td>
+    <td style="height: 23px;">&nbsp;Find the 🍀 among the ☘️</td>
+    <td style="height: 23px;">&nbsp;https://findtheclover.benoit.fun</td>
+  </tr>
+  <tr style="height: 23px;">
+    <td style="height: 23px;">&nbsp;Memento 🧠</td>
+    <td style="height: 23px;">&nbsp;Add post-it to your wall and remember your tasks</td>
+    <td style="height: 23px;">&nbsp;https://memento.benoitparmentier.fr</td>
+  </tr>
 </tbody>
 </table>
 <!-- DivTable.com -->
