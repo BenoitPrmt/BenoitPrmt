@@ -75,12 +75,5 @@ I'm a computer science student from France. I'm interested in programming, cyber
 
 </div>
 
-### ❤️ Visitors count
-*counter from June 6, 2023*
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/BenoitPrmt/count.svg?"  />
-</div>
-
 ### 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/benoitparmentier) 
