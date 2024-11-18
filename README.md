@@ -1,29 +1,39 @@
-## ✨ About me
+<h1 align="center">Hi 👋, I'm Benoît</h1>
+<h3 align="center">Computer science student in France — Freelance — Creating bugs since 2019</h3>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=benoitprmt&label=Profile%20views&color=0e75b6&style=flat" alt="benoitprmt" /> </p>
 
 I'm a computer science student from France. I'm interested in programming, cybersecurity, and much more...
 
-- Creating bugs since 2019 <br>
-- I'm currently working on personnal projects (the majority are private) <br>
-- I am currently studying computer science in France <br>
-- I am open to all your feedback about my public projects! <br>
+- 🔭 I’m currently working on [DailyFit](https://dailyfit.fr) | [Vite une place](https://viteuneplace.fr) | [Coloc+](https://colocplus.com)
+
+- 🌱 I’m currently learning **Symfony 7, Java, React**
+
+- 👨‍💻 All of my projects are available at [https://benoitparmentier.fr](https://benoitparmentier.fr)
+
+- 📅 Creating bugs since 2019
+  
+- ✨ I am open to all your feedback about my public projects!
+
 
 ## 👇 Web Projects
 <table>
 <tbody>
   <tr style="height: 23px;">
-    <td style="height: 23px;">Vite une place 🚗</td>
+    <td style="height: 23px;">&nbsp;Vite une place 🚗</td>
     <td style="height: 23px;">&nbsp;Find an available parking space near you!</td>
     <td style="height: 23px;">&nbsp;https://viteuneplace.fr</td>
   </tr>
   <tr style="height: 23px;">
-    <td style="height: 23px;">Coloc+ 🏡</td>
+    <td style="height: 23px;">&nbsp;Coloc+ 🏡</td>
     <td style="height: 23px;">&nbsp;Manage your flatshare easly!</td>
     <td style="height: 23px;">&nbsp;https://colocplus.com</td>
   </tr>
   <tr style="height: 23.5px;">
     <td style="height: 23.5px;">&nbsp;GravityGarden 🥕</td>
     <td style="height: 23.5px;">&nbsp;Your are a rabbit 🐰 and you have to catch carrots 🥕</td>
-    <td style="height: 23.5px;">https://gravitygarden.benoit.fun</td>
+    <td style="height: 23.5px;">&nbsp;https://gravitygarden.benoit.fun</td>
   </tr>
   <tr style="height: 23px;">
     <td style="height: 23px;">&nbsp;MonodCrush 💗</td>
@@ -76,4 +86,4 @@ I'm a computer science student from France. I'm interested in programming, cyber
 </div>
 
 ### 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/benoitparmentier) 
+<p><a href="https://www.buymeacoffee.com/benoitprmt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="benoitprmt" /></a></p>
