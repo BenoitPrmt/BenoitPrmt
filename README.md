@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Benoît</h1>
 <h3 align="center">Computer science student in France — Freelance — Creating bugs since 2019</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benoitprmt&label=Profile%20views&color=0e75b6&style=flat" alt="benoitprmt" /> </p>
-
 I'm a computer science student from France. I'm interested in programming, cybersecurity, and much more...
 
 - 🔭 I’m currently working on [DailyFit](https://dailyfit.fr) | [Vite une place](https://viteuneplace.fr) | [Coloc+](https://colocplus.com)
