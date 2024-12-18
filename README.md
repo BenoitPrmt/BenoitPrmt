@@ -27,6 +27,11 @@ I'm a computer science student from France. I'm interested in programming, cyber
     <td style="height: 23px;">&nbsp;Manage your flatshare easly!</td>
     <td style="height: 23px;">&nbsp;https://colocplus.com</td>
   </tr>
+  <tr style="height: 23px;">
+    <td style="height: 23px;">&nbsp;DailyFit 🏋️</td>
+    <td style="height: 23px;">&nbsp;Your advent calendar of sports challenges!</td>
+    <td style="height: 23px;">&nbsp;https://dailyfit.fr</td>
+  </tr>
   <tr style="height: 23.5px;">
     <td style="height: 23.5px;">&nbsp;GravityGarden 🥕</td>
     <td style="height: 23.5px;">&nbsp;Your are a rabbit 🐰 and you have to catch carrots 🥕</td>
@@ -46,11 +51,6 @@ I'm a computer science student from France. I'm interested in programming, cyber
     <td style="height: 23px;">&nbsp;Find the clover 🍀</td>
     <td style="height: 23px;">&nbsp;Find the 🍀 among the ☘️</td>
     <td style="height: 23px;">&nbsp;https://findtheclover.benoit.fun</td>
-  </tr>
-  <tr style="height: 23px;">
-    <td style="height: 23px;">&nbsp;Memento 🧠</td>
-    <td style="height: 23px;">&nbsp;Add post-it to your wall and remember your tasks</td>
-    <td style="height: 23px;">&nbsp;https://memento.benoitparmentier.fr</td>
   </tr>
 </tbody>
 </table>
