@@ -24,7 +24,7 @@ I'm a computer science student from France. I'm interested in programming, cyber
   </tr>
   <tr style="height: 23px;">
     <td style="height: 23px;">&nbsp;Coloc+ 🏡</td>
-    <td style="height: 23px;">&nbsp;Manage your flatshare easly!</td>
+    <td style="height: 23px;">&nbsp;Manage your flatshare easily!</td>
     <td style="height: 23px;">&nbsp;https://colocplus.com</td>
   </tr>
   <tr style="height: 23px;">
@@ -34,7 +34,7 @@ I'm a computer science student from France. I'm interested in programming, cyber
   </tr>
   <tr style="height: 23.5px;">
     <td style="height: 23.5px;">&nbsp;GravityGarden 🥕</td>
-    <td style="height: 23.5px;">&nbsp;Your are a rabbit 🐰 and you have to catch carrots 🥕</td>
+    <td style="height: 23.5px;">&nbsp;You are a rabbit 🐰 and you have to catch carrots 🥕</td>
     <td style="height: 23.5px;">&nbsp;https://gravitygarden.benoit.fun</td>
   </tr>
   <tr style="height: 23px;">
