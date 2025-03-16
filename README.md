@@ -3,9 +3,9 @@
 
 I'm a computer science student from France. I'm interested in programming, cybersecurity, and much more...
 
-- 🔭 I’m currently working on [DailyFit](https://dailyfit.fr) | [Vite une place](https://viteuneplace.fr) | [Coloc+](https://colocplus.com)
+- 🔭 I’m currently working on [Geodle](https://geodle.fr) | [DailyFit](https://dailyfit.fr) | [Vite une place](https://viteuneplace.fr) | ...
 
-- 🌱 I’m currently learning **Symfony 7, Java, React**
+- 🌱 I’m currently learning **Symfony 7, Java (Spring Boot)**
 
 - 👨‍💻 All of my projects are available at [https://benoitparmentier.fr](https://benoitparmentier.fr)
 
@@ -17,6 +17,11 @@ I'm a computer science student from France. I'm interested in programming, cyber
 ## 👇 Web Projects
 <table>
 <tbody>
+  <tr style="height: 23px;">
+    <td style="height: 23px;">&nbsp;Geodle 🌎</td>
+    <td style="height: 23px;">&nbsp;Find the country by his flag or capital — Daily geographic challenge</td>
+    <td style="height: 23px;">&nbsp;https://geodle.fr</td>
+  </tr>
   <tr style="height: 23px;">
     <td style="height: 23px;">&nbsp;Vite une place 🚗</td>
     <td style="height: 23px;">&nbsp;Find an available parking space near you!</td>
